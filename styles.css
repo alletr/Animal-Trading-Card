@@ -1,0 +1,50 @@
+/* add your CSS here */
+body {
+  font-family: arial, sans-serif;
+  color: #3f3f3f;
+  text-align: left;
+}
+#container {
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 3px;
+  border-color: #3f3f3f;
+  -webkit-box-shadow: 10px 10px 20px grey;
+  box-shadow: 10px 10px 20px tgrey;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 5px 5px 10px 15px;
+  width: 310px;
+}
+h1 {
+  font-size: 2em;
+  color: #787878;
+  padding-left: 0px;
+}
+.picture {
+  border-style: none;
+  width: 300px;
+  height: 362px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+}
+#card {
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #3f3f3f;
+  border-radius: 8px;
+  font-size: 0.8em;
+  padding: 5px 10px 5px 10px;
+  width: 280px;
+  margin-bottom: 10px;
+}
+#interesting-fact {
+  font-style: italic;
+}
+#facts {
+  list-style: none;
+  padding-left: 0px;
+}
+li span {
+  font-weight: bold;
+}
